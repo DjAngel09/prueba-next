@@ -1,0 +1,10 @@
+{
+  "_cts": {
+    "pagina_prueba": {},
+    "about": {}
+  },
+  "slices": {
+    "PascalCased": {},
+    "AboutPage": {}
+  }
+}

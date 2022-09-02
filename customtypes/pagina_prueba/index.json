@@ -1,0 +1,21 @@
+{
+  "id": "pagina_prueba",
+  "label": "pagina prueba",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "pascal_cased": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}
