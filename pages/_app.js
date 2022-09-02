@@ -1,5 +1,6 @@
 import { PrismicPreview } from '@prismicio/next'
 import { PrismicProvider } from '@prismicio/react'
+import Link from 'next/link'
 import { linkResolver, repositoryName } from '../prismicio'
 import '../styles/globals.css'
 
